@@ -111,8 +111,8 @@ React / Vite / CSS Modules / Node.js / Express / Nodemailer / Firebase Hosting /
 Live website: `}
       <TerminalLink href="https://globalfer-site.web.app/">globalfer-site.web.app</TerminalLink>
       {'\n'}Source:{' '}
-      <TerminalLink href="https://github.com/fernandoh88/globalfer-site">
-        github.com/fernandoh88/globalfer-site
+      <TerminalLink href="https://github.com/fernandohmachado8/globalfer-site">
+        github.com/fernandohmachado8/globalfer-site
       </TerminalLink>
     </span>
   ),
@@ -130,8 +130,8 @@ React / TypeScript / Vite / Node.js / Express / Zod / Docker / Render
 Live demo: `}
       <TerminalLink href="https://legalfit-demo.onrender.com/">legalfit-demo.onrender.com</TerminalLink>
       {'\n'}Source:{' '}
-      <TerminalLink href="https://github.com/fernandoh88/legalfit">
-        github.com/fernandoh88/legalfit
+      <TerminalLink href="https://github.com/fernandohmachado8/legalfit">
+        github.com/fernandohmachado8/legalfit
       </TerminalLink>
     </span>
   ),
@@ -144,7 +144,7 @@ Live demo: `}
         linkedin.com/in/fernando-machado8
       </TerminalLink>
       {'\n\n'}GitHub{'\n'}
-      <TerminalLink href="https://github.com/fernandoh88">github.com/fernandoh88</TerminalLink>
+      <TerminalLink href="https://github.com/fernandohmachado8">github.com/fernandohmachado8</TerminalLink>
     </span>
   ),
   socials: (
@@ -153,7 +153,7 @@ Live demo: `}
       <TerminalLink href="https://www.linkedin.com/in/fernando-machado8/">
         linkedin.com/in/fernando-machado8
       </TerminalLink>
-      {'\n'}GitHub    → <TerminalLink href="https://github.com/fernandoh88">github.com/fernandoh88</TerminalLink>
+      {'\n'}GitHub    → <TerminalLink href="https://github.com/fernandohmachado8">github.com/fernandohmachado8</TerminalLink>
       {'\n'}Email     → <TerminalLink href="mailto:fernando403@gmail.com">fernando403@gmail.com</TerminalLink>
     </span>
   ),

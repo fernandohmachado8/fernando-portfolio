@@ -18,6 +18,14 @@ export function Contact() {
             I am open to conversations about IT support, application support, cloud and infrastructure work, and junior
             developer opportunities.
           </p>
+          <div className="mt-6 flex flex-wrap gap-4">
+            <a className="text-sm font-medium text-cyan-300 underline underline-offset-4" href="/Fernando_Machado_IT_Resume.pdf" download>
+              Download IT Support Resume
+            </a>
+            <a className="text-sm font-medium text-cyan-300 underline underline-offset-4" href="/Fernando_Machado_Junior_Developer_Resume.pdf" download>
+              Download Developer Resume
+            </a>
+          </div>
         </div>
         <div className="grid gap-3">
           {contactLinks.map((link) => {

@@ -95,7 +95,7 @@ export const projects = [
     technologies: ['React', 'Node.js', 'Express', 'MongoDB', 'Firebase Authentication', 'Socket.IO', 'Nodemailer'],
     links: {
       project: 'https://silentauctionapp-4ca96.web.app/',
-      source: 'https://github.com/fernandoh88/silent-auction-app',
+      source: 'https://github.com/fernandohmachado8/silent-auction-app',
     },
     featured: true,
   },
@@ -118,7 +118,7 @@ export const projects = [
       'RecyclerView',
       'Wger API',
     ],
-    links: { project: '', source: 'https://github.com/fernandoh88/WorkoutPlannerApp' },
+    links: { project: '', source: 'https://github.com/fernandohmachado8/WorkoutPlannerApp' },
     featured: false,
   },
   {
@@ -137,7 +137,7 @@ export const projects = [
       'Jupyter Notebook',
       'Machine Learning',
     ],
-    links: { project: '', source: 'https://github.com/fernandoh88/spam-email-detection-ml' },
+    links: { project: '', source: 'https://github.com/fernandohmachado8/spam-email-detection-ml' },
     featured: false,
   },
   {
@@ -148,7 +148,7 @@ export const projects = [
     technologies: ['React', 'Vite', 'CSS Modules', 'Node.js', 'Express', 'Nodemailer', 'Firebase Hosting', 'Cloud Run'],
     links: {
       project: 'https://globalfer-site.web.app/',
-      source: 'https://github.com/fernandoh88/globalfer-site',
+      source: 'https://github.com/fernandohmachado8/globalfer-site',
     },
     featured: false,
   },
@@ -160,7 +160,7 @@ export const projects = [
     technologies: ['React', 'TypeScript', 'Vite', 'Node.js', 'Express', 'Zod', 'Docker', 'Render'],
     links: {
       project: 'https://legalfit-demo.onrender.com/',
-      source: 'https://github.com/fernandoh88/legalfit',
+      source: 'https://github.com/fernandohmachado8/legalfit',
     },
     featured: false,
   },
@@ -186,6 +186,6 @@ export const contactLinks = [
     value: 'linkedin.com/in/fernando-machado8',
     href: 'https://www.linkedin.com/in/fernando-machado8/',
   },
-  { label: 'GitHub', value: 'github.com/fernandoh88', href: 'https://github.com/fernandoh88' },
+  { label: 'GitHub', value: 'github.com/fernandohmachado8', href: 'https://github.com/fernandohmachado8' },
   { label: 'Location', value: 'New Westminster, BC, Canada', href: '#contact' },
 ]
